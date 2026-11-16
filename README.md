@@ -47,8 +47,6 @@
 - 🌐 Web development fundamentals
 - 🔧 Git, GitHub & open source basics
 
-*(Edit or remove as you go — this section is meant to grow with you.)*
-
 ---
 
 <p align="center"><i>⭐️ From <a href="https://github.com/devhafs">devhafs</a></i></p>

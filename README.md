@@ -51,11 +51,4 @@
 
 ---
 
-### 🤝 Connect
-
-<p align="left">
-  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <p align="center"><i>⭐️ From <a href="https://github.com/devhafs">devhafs</a></i></p>
